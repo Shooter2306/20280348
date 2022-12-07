@@ -11,4 +11,4 @@
 <body bgcolor="gray">
 
 <h3> NOMBRE:  <h4> Ignacio Lopez Guadarrama
-<h3> CREDITO: 
+<h3>  VALIDO
